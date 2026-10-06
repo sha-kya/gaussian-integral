@@ -16,7 +16,7 @@ into a rectangle, and the area under `r e^{-r²}` filling up to ½.
 ## Quick start
 
 ```bash
-git clone <this repo> && cd gaussian-integral
+git clone https://github.com/sha-kya/gaussian-integral.git && cd gaussian-integral
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
